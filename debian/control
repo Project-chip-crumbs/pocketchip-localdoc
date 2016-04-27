@@ -1,0 +1,13 @@
+Source: pocketchip-localdoc
+Section: embedded
+Priority: optional
+Maintainer: Ben Young <software@nextthing.co>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: github.com/nextthingco
+
+Package: pocketchip-localdoc
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Help documentation for PocketCHIP
+ HTML help documentation for PocketCHIP using Yelp.
