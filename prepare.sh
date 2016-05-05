@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x
 
 pushd pocketchip-docs
 git checkout gh-pages
