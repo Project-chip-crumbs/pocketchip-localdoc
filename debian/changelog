@@ -1,3 +1,9 @@
+pocketchip-localdoc (0.2) stable; urgency=low
+
+  * Prep for testing repo
+
+ -- Ben Young <software@nextthing.co>  Wed, 27 Apr 2016 14:20:47 -0700
+
 pocketchip-localdoc (0.1) stable; urgency=low
 
   * Initial Release.
