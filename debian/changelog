@@ -1,3 +1,11 @@
+pocketchip-localdoc (0.3) stable; urgency=low
+
+  * Strip Links
+  * Stop resizing icon images
+  * Add licensing info
+
+ -- Ben Young <software@nextthing.co>  Mon, 9 May 2016 18:55:47 -0700
+
 pocketchip-localdoc (0.2) stable; urgency=low
 
   * Prep for testing repo
