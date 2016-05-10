@@ -5,6 +5,7 @@ pushd pocketchip-docs
 git checkout gh-pages
 popd
 
+mkdir pocketchip-localdoc
 cp -R pocketchip-docs/* pocketchip-localdoc/
 pushd pocketchip-localdoc/
 for file in ./images/*; do convert $file -resize 400 $file; done
