@@ -17,5 +17,7 @@ sed -i -e 's/">.*a>//' index.html
 
 popd
 
+cp dropins/* pocketchip-localdoc/stylesheets/
+
 #./bs.py > pocketchip-localdoc/new-index.html
 #mv pocketchip-localdoc/new-index.html pocketchip-localdoc/index.html
